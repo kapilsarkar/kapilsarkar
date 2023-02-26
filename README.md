@@ -9,7 +9,7 @@
 # **Blog Website** ##
 <a href="https://hashnode.com/@kapil2"><img alt="Blog Website" src="https://img.shields.io/badge/Blog-Visit%20It-yellow?style=flat-square&logo=hashnode"></a>
 
-# Tools / Languages:
+# Languages:
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
