@@ -1,8 +1,15 @@
+
+
+# HELLO MY NAME IS KAPIL SARKAR
+
+
+## REACH ME IN THE FOLLOWING PLATFORM
+
 <a href="https://twitter.com/kapil_cena1"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Twitter%20Link-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:k.sarkar81@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Mail%20Me-brightgreen?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/kapil-sarkar-439754249/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Connect%20Me-red?style=flat-square&logo=linkedin"></a>
 
-# HELLO MY NAME IS KAPIL SARKAR
+
 ## I am a **WEB DEVELOPER IN LEARNING PHASE** ##
 
 
