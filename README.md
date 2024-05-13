@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/kapil-sarkar-439754249/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Connect%20Me-red?style=flat-square&logo=linkedin"></a>
 
 
-## I am a **WEB DEVELOPER IN LEARNING PHASE** ##
+## I am a **WEB DEVELOPER** ##
 
 
 # **Blog Website** ##
