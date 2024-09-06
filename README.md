@@ -5,11 +5,10 @@
 </h1>
 
 
-## REACH ME IN THE FOLLOWING PLATFORM
+## 👇 Let's Connect:
 
-<a href="https://twitter.com/kapil_cena1"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Twitter%20Link-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:k.sarkar81@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Mail%20Me-brightgreen?style=flat-square&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/kapil-sarkar-439754249/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Connect%20Me-red?style=flat-square&logo=linkedin"></a>
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapil-sarkar-439754249/)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kapil_cena1)
 
 
 ## I am a **WEB DEVELOPER** ##
