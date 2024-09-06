@@ -14,7 +14,7 @@
 
 
 # **Blog Website** ##
-<a href="https://hashnode.com/@kapil2"><img alt="Blog Website" src="https://img.shields.io/badge/Blog-Visit%20It-yellow?style=flat-square&logo=hashnode"></a>
+<a href="https://hashnode.com/@kapil2"><img alt="Blog Website" src="https://img.shields.io/badge/Hashnode-Follow%20Me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 
 # Languages:
 
@@ -33,6 +33,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+
 
 
 <!---
