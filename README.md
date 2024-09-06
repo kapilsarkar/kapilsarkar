@@ -36,11 +36,11 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
+##  Github Stats:
+![kapilsarkar's Stats](https://github-readme-stats.vercel.app/api?username=kapilsarkar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<div align="center">
   ![kapilsarkar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kapilsarkar&theme=vue-dark&hide_border=true)
-</div>
+
 
 
 
