@@ -37,9 +37,9 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ##  Github Stats:
-![kapilsarkar's Stats](https://github-readme-stats.vercel.app/api?username=kapilsarkar&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![kapilsarkar's Stats](https://github-readme-stats.vercel.app/api?username=kapilsarkar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![kapilsarkar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kapilsarkar&theme=dark&hide_border=true)
+![kapilsarkar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kapilsarkar&theme=vue-dark&hide_border=true)
 
 
 
