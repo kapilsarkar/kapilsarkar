@@ -41,7 +41,7 @@
 
 ![kapilsarkar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kapilsarkar&theme=vue&hide_border=false)
 
-![kapilsarkar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilsarkar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![kapilsarkar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilsarkar&theme=vue&show_icons=true&hide_border=false&layout=compact)
 
 
 
