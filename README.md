@@ -41,9 +41,17 @@
 
 ![kapilsarkar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kapilsarkar&theme=vue&hide_border=false)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapilsarkar&theme=blue_green)
+
 ![kapilsarkar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilsarkar&theme=vue&show_icons=true&hide_border=false&layout=compact)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kapilsarkar&bg_color=f5ffd1&color=cb2a62&line=4c9e52&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kapilsarkar&theme=blue_green)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapilsarkar&theme=blue_green)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kapilsarkar&theme=blue_green&utcOffset=8)
 
 <!---
 kapilsarkar/kapilsarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
