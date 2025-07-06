@@ -49,7 +49,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kapilsarkar&theme=blue_green)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapilsarkar&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapilsarkar&theme=moonlight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kapilsarkar&theme=blue_green&utcOffset=8)
 [![trophy](https://github-profile-trophy.vercel.app/?username=kapilsarkar)](https://github.com/ryo-ma/github-profile-trophy)
