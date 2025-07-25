@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Front-End Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff0000&random=false&width=535&lines=✨+Building+beautiful+web+experiences!;⚛️+React+JS+Enthusiast;🚀+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&width=550&lines=Building+beautiful+web+experiences!;React+JS+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
+
 
 ---
 
