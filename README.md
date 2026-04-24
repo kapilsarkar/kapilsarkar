@@ -1,4 +1,4 @@
-<img src="YOUR_BANNER_URL_HERE" alt="Kapil Sarkar Banner" width="100%" />
+<img src="https://github.com/kapilsarkar/kapilsarkar/blob/main/KA%5BIL%20SARKAR%20GITHUB%20BANNER.png" alt="Kapil Sarkar Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Kapil Sarkar</h1>
 <h3 align="center">Full Stack Developer (React • Next.js • Node.js) | Building Real-World Web Applications</h3>
