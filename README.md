@@ -22,18 +22,27 @@
 
 ## 🔥 Featured Projects
 
-### 📊 Expense Tracker App (Coming Soon)
+### 🤖 [AI Application & Letter Assistant](https://github.com/kapilsarkar/AI-APPLICATION-LETTER-ASSISTANT)
 
-* Full Stack App using React, Node.js, MongoDB
-* Features: Authentication, Dashboard, Analytics
+* AI-powered application and letter generation assistant
+* Built with **React, Vite, JavaScript, Supabase & Gemini AI**
+* Features: Guided document creation, AI generation, editing, translation, authentication and PDF-ready output
+
+---
+
+### 🎯 [AI Interview Coach](https://github.com/kapilsarkar/INTERVIEW-COACH)
+
+* AI-powered interview preparation application
+* Built with **React, Vite, JavaScript, Zustand, React Hook Form, Zod & Gemini AI**
+* Features: AI-generated interview questions, interview preparation workflow and downloadable results
 
 ---
 
-### 🏫 School Management System (Coming Soon)
+### 🚀 More Coming Soon
 
-* MERN Stack application for managing students & teachers
+* Currently working on more **real-world full stack applications**
+* Stay tuned for upcoming projects!
 
----
 
 ## ⚡ Tech Stack
 
