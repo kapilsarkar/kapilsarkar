@@ -32,7 +32,7 @@ An AI-powered application for creating professional applications and letters thr
 
 **🔗 [GitHub Repository](https://github.com/kapilsarkar/AI-APPLICATION-LETTER-ASSISTANT)**
 
-**🌐 [Live Demo](https://ai-application-letter-assistant.vercel.app/login)**
+**🌐 [Live Demo](https://ai-application-letter-assistant.vercel.app/)**
 
 **🎥 [Demo Video](https://www.youtube.com/watch?v=ygHT6iqJGoo)**
 
