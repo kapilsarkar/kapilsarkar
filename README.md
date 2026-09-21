@@ -1,74 +1,111 @@
 <img src="https://github.com/kapilsarkar/kapilsarkar/blob/main/KA%5BIL%20SARKAR%20GITHUB%20BANNER.png" alt="Kapil Sarkar Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Kapil Sarkar</h1>
-<h3 align="center">Full Stack Developer (React • Next.js • Node.js) | Building Real-World Web Applications</h3>
+
+<h3 align="center">
+Full Stack Developer | React • JavaScript • Next.js • Node.js | AI-Powered Web Applications
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C853&center=true&width=550&lines=Building+Scalable+Web+Apps;React+%2B+Next.js+Developer;Open+to+Freelance+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C853&center=true&width=600&lines=Building+Real-World+Web+Applications;React+%2B+JavaScript+Developer;Exploring+Full+Stack+Development;Integrating+AI+into+Web+Applications" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer focused on **React, Next.js & Node.js**
-* 🔨 Currently building **real-world full stack applications**
-* 🌱 Exploring **Next.js & Backend Architecture**
-* 💬 Ask me about **React, JavaScript, APIs, TailwindCSS**
-* 🎯 Goal: Work on **production-level apps & freelance projects**
+* 💻 Full Stack Developer focused on **React, JavaScript, Next.js & Node.js**
+* 🤖 Building **AI-powered web applications** with Google Gemini
+* 🔨 Developing real-world applications with **modern frontend and backend technologies**
+* 🌱 Currently deepening my knowledge of **Next.js & Backend Architecture**
+* 💬 Ask me about **React, JavaScript, APIs, Redux, Zustand & Supabase**
+* 🎯 Focused on building **real-world applications and solving practical problems**
 * 📫 Email: **[k.sarkar81@gmail.com](mailto:k.sarkar81@gmail.com)**
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🤖 [AI Application & Letter Assistant](https://github.com/kapilsarkar/AI-APPLICATION-LETTER-ASSISTANT)
+### 🤖 AI Application & Letter Assistant
 
-* AI-powered application and letter generation assistant
-* Built with **React, Vite, JavaScript, Supabase & Gemini AI**
-* Features: Guided document creation, AI generation, editing, translation, authentication and PDF-ready output
+An AI-powered application for creating professional applications and letters through a guided workflow.
+
+**🔗 [GitHub Repository](https://github.com/kapilsarkar/AI-APPLICATION-LETTER-ASSISTANT)**
+
+**🌐 [Live Demo](https://ai-application-letter-assistant.vercel.app/login)**
+
+**🎥 [Demo Video](https://www.youtube.com/watch?v=ygHT6iqJGoo)**
+
+* ⚛️ Built with **React, Vite & JavaScript**
+* 🔐 **Supabase Authentication & Database**
+* 🤖 **Google Gemini integration**
+* 📝 Guided document generation and editing
+* 🌐 Document translation and improvement
+* 📄 PDF-ready document output
+* 🔒 Secure AI generation through **Supabase Edge Functions**
 
 ---
 
-### 🎯 [AI Interview Coach](https://github.com/kapilsarkar/INTERVIEW-COACH)
+### 🎯 AI Interview Coach
 
-* AI-powered interview preparation application
-* Built with **React, Vite, JavaScript, Zustand, React Hook Form, Zod & Gemini AI**
-* Features: AI-generated interview questions, interview preparation workflow and downloadable results
+An AI-powered application designed to help users prepare for interviews through an interactive workflow.
+
+**🔗 [GitHub Repository](https://github.com/kapilsarkar/INTERVIEW-COACH)**
+
+**🌐 [Live Demo](https://interview-coach-five-murex.vercel.app/)**
+
+**🎥 [Demo Video](https://www.youtube.com/watch?v=EhNLO07ogx0)**
+
+* ⚛️ Built with **React, Vite & JavaScript**
+* 🤖 **Google Gemini integration**
+* 🗃️ **Zustand** for state management
+* 📝 **React Hook Form + Zod** for form handling and validation
+* 📄 Downloadable interview results
+* 🎯 Structured interview preparation workflow
 
 ---
 
 ### 🚀 More Coming Soon
 
-* Currently working on more **real-world full stack applications**
-* Stay tuned for upcoming projects!
+Currently working on more **real-world full stack applications**.
 
+---
 
 ## ⚡ Tech Stack
 
 ### 🚀 Frontend
 
-React • Next.js • JavaScript • TailwindCSS • Redux • HTML • CSS
+**React • JavaScript • Next.js • HTML • CSS • TailwindCSS**
 
-### 🛠 Backend
+### 🧠 State Management & Forms
 
-Node.js • Express.js • MongoDB • REST APIs
+**Redux Toolkit • Zustand • React Hook Form • Zod**
 
-### ⚙ Tools
+### 🛠 Backend & Database
 
-Git • GitHub • NPM • Postman • VS Code
+**Node.js • Express.js • Supabase • MongoDB • REST APIs**
+
+### 🤖 AI
+
+**Google Gemini • AI API Integration • Supabase Edge Functions**
+
+### ⚙️ Tools
+
+**Git • GitHub • NPM • Postman • VS Code • Vercel**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/kapil-sarkar-439754249/" target="blank">
+<a href="https://www.linkedin.com/in/kapil-sarkar-439754249/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://x.com/kapil_cena1" target="blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+
+<a href="https://x.com/kapil_cena1" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
+
 <a href="mailto:k.sarkar81@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -95,8 +132,10 @@ Git • GitHub • NPM • Postman • VS Code
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
-* 🚀 Building multiple **Full Stack Projects**
-* 📈 Improving **problem-solving & development skills**
-* 🌍 Open to **Freelance & Collaboration Opportunities**
+* 🚀 Building **real-world full stack applications**
+* 🤖 Integrating **AI into practical web applications**
+* 🔐 Working with **authentication, databases, APIs & server-side functions**
+* 📈 Continuously improving **problem-solving and development skills**
+* 🌍 Open to **freelance opportunities and collaboration**
