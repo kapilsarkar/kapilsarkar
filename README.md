@@ -1,26 +1,51 @@
-<img src="https://github.com/kapilsarkar/kapilsarkar/blob/main/KA%5BIL%20SARKAR%20GITHUB%20BANNER.png" alt="Kapil Sarkar Banner" width="100%" />
+
 
 <h1 align="center">Hi 👋, I'm Kapil Sarkar</h1>
 
 <h3 align="center">
-Full Stack Developer | React • JavaScript • Next.js • Node.js | AI-Powered Web Applications
+Full-Stack Developer • AI Application Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C853&center=true&width=600&lines=Building+Real-World+Web+Applications;React+%2B+JavaScript+Developer;Exploring+Full+Stack+Development;Integrating+AI+into+Web+Applications" />
+Building AI-powered web applications with React • Next.js • Node.js • TypeScript • Google Gemini
+</p>
+
+<p align="center">
+I build practical full-stack applications by combining modern web technologies,
+AI APIs, and backend services to solve real-world problems.
+</p>
+
+<p align="center">
+Passionate about AI application development, full-stack engineering,
+developer tools, and building products that are genuinely useful.
+</p>
+
+<p align="center">
+  <a href="https://github.com/kapilsarkar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kapil-sarkar-439754249/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:k.sarkar81@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kapilsarkar&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer focused on **React, JavaScript, Next.js & Node.js**
+* 💻 Full-Stack Developer focused on **React, Next.js, Node.js & TypeScript**
 * 🤖 Building **AI-powered web applications** with Google Gemini
 * 🔨 Developing real-world applications with **modern frontend and backend technologies**
-* 🌱 Currently deepening my knowledge of **Next.js & Backend Architecture**
+* 🌱 Currently deepening my knowledge of **Next.js, TypeScript & Backend Architecture**
 * 💬 Ask me about **React, JavaScript, APIs, Redux, Zustand & Supabase**
 * 🎯 Focused on building **real-world applications and solving practical problems**
-* 📫 Email: **[k.sarkar81@gmail.com](mailto:k.sarkar81@gmail.com)**
 
 ---
 
@@ -67,7 +92,7 @@ An AI-powered application designed to help users prepare for interviews through 
 
 ### 🚀 More Coming Soon
 
-Currently working on more **real-world full stack applications**.
+Currently working on more **real-world full-stack applications**.
 
 ---
 
@@ -75,7 +100,7 @@ Currently working on more **real-world full stack applications**.
 
 ### 🚀 Frontend
 
-**React • JavaScript • Next.js • HTML • CSS • TailwindCSS**
+**React • Next.js • TypeScript • JavaScript • HTML • CSS • TailwindCSS**
 
 ### 🧠 State Management & Forms
 
@@ -95,46 +120,17 @@ Currently working on more **real-world full stack applications**.
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/kapil-sarkar-439754249/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/kapil_cena1" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:k.sarkar81@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kapilsarkar&theme=vue&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilsarkar&theme=vue" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilsarkar&theme=vue" alt="Kapil Sarkar GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilsarkar&theme=vue&layout=compact" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilsarkar&bg_color=f5ffd1&color=cb2a62&line=4c9e52&point=403d3d&area=true&hide_border=true" />
 
 ---
 
 ## 🏆 Highlights
 
-* 🚀 Building **real-world full stack applications**
+* 🚀 Building **real-world full-stack applications**
 * 🤖 Integrating **AI into practical web applications**
 * 🔐 Working with **authentication, databases, APIs & server-side functions**
 * 📈 Continuously improving **problem-solving and development skills**
